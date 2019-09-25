@@ -1,0 +1,75 @@
+* {
+    margin: 0 auto;
+    text-align: center;
+
+
+}
+
+
+html {
+    background-color: #F9FBF2;
+    color: #46351D;
+
+
+    font-size: 1.5em;
+
+
+}
+
+.title {
+
+    padding: 2%;
+    background-color: #F9FBF2;
+    color: #46351D;
+    width: 100%;
+    font-size: 5vh;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+img {
+    
+}
+
+.text {
+    padding: 2%;
+    background-color: #faecd8;
+    color: black;
+    font-family: 'News Cycle', sans-serif;
+    width: 86%;
+    font-size: 0.68em;
+
+
+}
+
+
+ul {
+    display: inline-block;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #46351D;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: #D4AA7D;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+li a:hover {
+    background-color: #46351D;
+}
+
+
+nav {
+    width: 100vw;
+    background-color: #46351D;
+}
